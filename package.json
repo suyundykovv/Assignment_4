@@ -9,5 +9,8 @@
     "express-validator": "^7.2.1",
     "mongodb": "^6.13.0",
     "mongoose": "^8.10.0"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
